@@ -38,7 +38,7 @@ public class Grade {
 
         double average = sum / grades.length;
 
-        // display the results
+        // displayresults
         System.out.println("\nGrade Statistics:");
         System.out.printf("Average: %.2f\n", average);
         System.out.printf("Maximum: %.2f\n", max);
